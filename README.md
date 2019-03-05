@@ -3,7 +3,7 @@ Code to scrape course reviews from Coursera and perform sentiment analysis and t
 
 ## Contents
 
-** Code ready to use ** 
+**Code ready to use** 
 - CourseraClass.py
 - scrape_coursera_reviews.py
 - scrape_coursera_urls.py
@@ -11,7 +11,7 @@ Code to scrape course reviews from Coursera and perform sentiment analysis and t
 - Review_Topic_Modeling.ipynb
 
 
-** Experiments **
+**Experiments**
 - coursera_reviews_scraper.ipynb
 - coursera_url_scrapper.ipynb
 
